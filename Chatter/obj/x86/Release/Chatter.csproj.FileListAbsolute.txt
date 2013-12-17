@@ -1,0 +1,10 @@
+G:\Chatter\Chatter\obj\x86\Release\ResolveAssemblyReference.cache
+G:\Chatter\Chatter\obj\x86\Release\Chatter.frmChatter.resources
+G:\Chatter\Chatter\obj\x86\Release\Chatter.frmSettings.resources
+G:\Chatter\Chatter\obj\x86\Release\Chatter.Properties.Resources.resources
+G:\Chatter\Chatter\obj\x86\Release\GenerateResource.read.1.tlog
+G:\Chatter\Chatter\obj\x86\Release\GenerateResource.write.1.tlog
+G:\Chatter\Chatter\bin\Release\Chatter.exe
+G:\Chatter\Chatter\bin\Release\Chatter.pdb
+G:\Chatter\Chatter\obj\x86\Release\Chatter.exe
+G:\Chatter\Chatter\obj\x86\Release\Chatter.pdb
